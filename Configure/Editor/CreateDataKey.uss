@@ -1,0 +1,15 @@
+TextField {
+    flex-basis: auto;
+    flex-direction: row;
+    flex-grow: 1;
+}
+.label-from-UXML
+{
+    flex-basis: auto;
+    flex-direction: column;
+    flex-grow: 1;
+}
+.data-cotainer {
+    flex-basis: auto;
+    flex-direction: row;
+}

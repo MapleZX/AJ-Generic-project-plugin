@@ -1,0 +1,9 @@
+.localization {
+}
+
+.localization-image {
+}
+
+.slime-messagecontainer {
+    padding-top: 128px;
+}

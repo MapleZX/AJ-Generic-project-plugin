@@ -1,0 +1,42 @@
+.label-from-UXML
+{
+    flex-basis: auto;
+    flex-direction: column;
+    flex-grow: 1;
+}
+.scroll-view {
+    flex-basis: auto;
+    flex-direction: column;
+    flex-grow: 1;
+    margin: 8px;
+}
+.add-object-cotainer {
+    flex-basis: auto;
+    flex-direction: row;
+    flex-grow: 0;
+    margin: 8px;
+}
+.add-left-cotainer {
+    flex-basis: auto;
+    flex-direction: row;
+    flex-grow: 1;
+}
+.add-right-cotainer {
+    flex-basis: auto;
+    flex-direction: row;
+    flex-grow: 0;
+}
+.create-button {   
+    font-size: 30px;
+    -unity-text-align: middle-center;
+    height: 50px;
+    margin: 8px;
+    flex-grow: 0;
+    justify-content: center;
+}
+Button:hover {
+    -unity-font-style: bold;
+}
+Button:active {
+    -unity-font-style: bold;
+}

@@ -1,0 +1,38 @@
+.prefix-style {
+    width: 25px;
+    padding-left: 1%;
+}
+
+.prefix-style-undisplay > .unity-base-field__input {
+    background-color: rgb(75, 71, 71);
+}
+
+.prefix-style-undisplay > .unity-base-text-field__input {
+    color: rgb(255, 255, 255);
+}
+
+.asset-cotainer {
+    justify-content: flex-start;
+    flex-basis: auto;
+    flex-direction: row;
+    align-items: stretch;
+    margin-right: 3px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.asset-style {
+    width: 90%;
+}
+
+.asset-half-width {
+    width: 50%;
+    min-width: 128px;
+    margin-left: 6px;
+    margin-top: 1px;
+    margin-bottom: 3px;
+}
+
+.asset-toggle-style {
+    
+}

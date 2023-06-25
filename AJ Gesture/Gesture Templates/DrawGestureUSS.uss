@@ -1,0 +1,50 @@
+.create-gesture-button {
+    border-left-color: rgba(224, 151, 151, 0.61);
+    border-right-color: rgba(224, 151, 151, 0.61);
+    border-top-color: rgba(224, 151, 151, 0.61);
+    border-bottom-color: rgba(224, 151, 151, 0.61);
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    background-color: rgba(239, 47, 47, 0.45);
+    font-size: 18px;
+    width: 128px;
+    height: 32px;
+    -unity-font-style: bold;
+    color: rgba(255, 255, 255, 255);
+}
+
+.create-gesture-button:hover {
+    border-left-color: rgba(43, 39, 39, 0.61);
+    border-right-color: rgba(43, 39, 39, 0.61);
+    border-top-color: rgba(43, 39, 39, 0.61);
+    border-bottom-color: rgba(43, 39, 39, 0.61);
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    background-color: rgba(239, 47, 47, 0.45);
+    font-size: 18px;
+    width: 128px;
+    height: 32px;
+    -unity-font-style: bold;
+    color: rgb(255, 255, 255);
+}
+
+.create-gesture-button:active {
+    border-left-color: rgba(43, 39, 39, 0.43);
+    border-right-color: rgba(43, 39, 39, 0.43);
+    border-top-color: rgba(43, 39, 39, 0.43);
+    border-bottom-color: rgba(43, 39, 39, 0.43);
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    background-color: rgba(239, 47, 47, 0.45);
+    font-size: 12px;
+    width: 128px;
+    height: 32px;
+    -unity-font-style: bold;
+    color: rgb(255, 255, 255);
+}
