@@ -1,4 +1,4 @@
-# AJ-Generic-project-plugin
+# AJ Generic project plugin
 一个简单的Unity基础框架
 框架内容包括
 1.数据加载
